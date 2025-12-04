@@ -1,6 +1,6 @@
-# Bonus: Data Processing
+# Bonus: Data Processing and Storage
 
-This code creates a simple transactional behavior.
+This code creates simple transactional behavior.
 
 **Operations**
 - begin_transaction(): starts a new transaction
@@ -14,4 +14,5 @@ This code creates a simple transactional behavior.
 2. Run program by using command python3 inmemorydb.py
 
 **Official Assignment**
+
 This assignment can be modified to become an official assignment by adding more requirements. The code could require several classes and a UI. Additionally, additions like more implementation ideas and functionality like transaction history. In reference to testing, students could implement automated unit tests to test their functionality. 
